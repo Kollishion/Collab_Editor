@@ -114,8 +114,8 @@ Application Load Balancer
 Users
 ```
 
-## 🚀 Installation
-
+## Installation
+ 
 Clone the repository:
 
 ```bash
